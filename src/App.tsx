@@ -8,6 +8,16 @@ function App() {
   return (
     <>
       <h1>Calculadora de investimentos</h1>
+      <section>
+        <h2>Juros sobre investimento<h2/>
+      </section>
+      <section>
+        <h2>Redesconto<h2/>
+      <section/>
+      <section>
+        <h2>Depreciação<h2/>
+      <section/>
+        
     </>
   )
 }
