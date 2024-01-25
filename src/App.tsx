@@ -10,6 +10,7 @@ function App() {
       <h1>Calculadora de investimentos</h1>
       <section>
         <h2>Juros sobre investimento<h2/>
+          <p>Calcula o valor de uma aplicação financeira gerado a partir dos juros compostos</p>
       </section>
       <section>
         <h2>Redesconto<h2/>
