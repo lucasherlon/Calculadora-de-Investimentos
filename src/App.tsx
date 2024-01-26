@@ -13,7 +13,7 @@ function App() {
         <h2>Juros sobre investimento</h2>
         <label>Valor investido</label>
         <input type="number" placeholder="Valor investido"/>
-        <h2>Juros sobre investimento<h2/>
+        <h2>Juros sobre investimento</h2>h2>
           <p>Calcula o valor de uma aplicação financeira gerado a partir dos juros compostos</p>
       </section>
 
